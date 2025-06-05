@@ -15,8 +15,6 @@ Built with modern Android best practices including:
 
 - 🔄 **Peer-to-peer syncing** with no central server required
 - 📶 **Offline data access** with automatic syncing when reconnected
-- 💼 **Local Room database** with seamless integration to Ditto
-- 🛠️ Easily extendable for **IoT**, **Point-of-Sale**, or **Field Data Collection**
 
 ---
 
